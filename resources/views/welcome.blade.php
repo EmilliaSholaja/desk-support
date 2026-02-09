@@ -5,11 +5,11 @@
             <!-- LEFT: Text Content -->
             <div class="flex flex-col justify-center">
                 <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-                    Welcome to SupportDesk
+                    Welcome to Internal Help Desk
                 </h1>
 
                 <p class="text-gray-600 text-lg mb-6">
-                    SupportDesk is a simple ticketing system that helps users submit issues, track progress,
+                    Internal Help Desk is a simple ticketing system that helps users submit issues, track progress,
                     and communicate directly with support staff. Whether it’s a technical problem, request,
                     or complaint, everything is handled in one place.
                 </p>
@@ -41,7 +41,7 @@
             <!-- RIGHT: Visual / Card -->
             <div class="flex items-center justify-center">
                 <div class="bg-white shadow-lg rounded-xl p-8 w-full max-w-md">
-                    <h2 class="text-2xl font-semibold mb-4">Why Use SupportDesk?</h2>
+                    <h2 class="text-2xl font-semibold mb-4">Why Use Internal Help Desk?</h2>
 
                     <div class="space-y-4 text-gray-600 text-sm">
                         <p>
