@@ -1,4 +1,4 @@
-# Desk Support – Helpdesk Ticketing System
+# Internal Help Desk – Helpdesk Ticketing System
 
 A simple Helpdesk / Support Ticket system built with Laravel and Tailwind CSS.  
 This project allows users to create support tickets and admins to manage, reply, and update ticket status and priority.
